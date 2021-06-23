@@ -1,30 +1,52 @@
 <h1 align="center"> Hi 👋, I'm Viviane Rodrigues!
 <h3 align="center">A Flutter programmer!</h3>
 
-[![Linkedin: vivianerodrigues25](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/vivianerodrigues25/)][linkedin]
-
-- 🌱 &ensp;I’m currently learning and working with Flutter ❤️
-  
 ### Connect With Me
 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianerodrigues25/)](https://www.linkedin.com/in/vitoryugulis/)
 
-[<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
+# My skills:
 
+### Frameworks
+<p align="left">
+  
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
-<br />
-<br />
+ </p>
+ 
+### Languages:
+ 
+<p align="left">
+ 
+  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 
-### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+ </p>
+ 
+ 
+  ### Tools, IDEs and Version Control:
+ 
+<p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</p>
 
+### OS:
+<p align="left">
+  <img alt="ANDROID" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+</p>
 
+# Other info:
+<a href="https://github.com/vivianeor/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vitoryugulis&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Anurag's github stats" />
+</a>
 
-<br />
-<br />
+<a href="https://github.com/vivianeor/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vivianeor&layout=compact&theme=midnight-purple" />
+</a>
 
-
-[linkedin]: https://linkedin.com/in/JohannesMilke
-[email]: mailto:hello@johannesmilke.com
+<hr />
