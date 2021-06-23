@@ -42,7 +42,7 @@
 
 # Other info:
 <a href="https://github.com/vivianeor/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vitoryugulis&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vivianeor&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Anurag's github stats" />
 </a>
 
 <a href="https://github.com/vivianeor/github-readme-stats">
