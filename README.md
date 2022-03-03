@@ -8,7 +8,7 @@
   
 <h4 align="center">A flutter developer 👩‍💻</h4>
   
-I have a degree in Business Informatics and currently I'm working at [BV Bank](https://www.bv.com.br/) with Flutter and dart. I love learning about programming, so I also enjoy teaching and helping others.
+I have a degree in Business Computing and currently I'm working at [BV Bank](https://www.bv.com.br/) with Flutter and dart. I love learning about programming, so I also enjoy teaching and helping others.
 
 - 🌱 I’m currently learning **mobx, bloc, testing, clean architecture and design pattens.*
 
