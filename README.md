@@ -19,6 +19,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
